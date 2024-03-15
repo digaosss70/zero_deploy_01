@@ -29,3 +29,8 @@ git add .
 git commit -m "meu commit"
 git push
 
+!dica= faça um fluxograma utilizando o mermaid (app.excalidraw add (icone triangulo bola quadrado -mermaid))
+
+zero_deploy
+dbname
+dbuser
